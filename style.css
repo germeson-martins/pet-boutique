@@ -81,3 +81,14 @@ h3 {
 }
 
 /*Fim Banner*/
+
+/*Início Serviços*/
+.box-servicos {
+    max-width: 800px;
+    color: #3c184e;
+    margin: 0 auto 50px;
+}
+.box-servicos li {
+    font-size: 20px;
+    margin: 0 0 20px;
+}
