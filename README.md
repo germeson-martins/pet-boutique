@@ -9,9 +9,9 @@
 </div>
 <br>
 
-<!-- ## Access here
+## Access here
 <a 
 href="https://germeson-martins.github.io/pet-boutique" target="_blank">Pet Boutique
 </a>
 
-<img src="img/demo.png" alt="img demo"> -->
+<!-- <img src="img/demo.png" alt="img demo"> -->
