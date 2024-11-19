@@ -150,3 +150,20 @@ h3 {
     height: 450px;
 }
 /* Onde estamos */
+
+/* Rodape */
+.rodape {
+    background-color: #3c184e;
+    padding: 25px 0;
+}
+.text-rodape {
+    color: #fff;
+    font-size: 16px;
+    text-align: center;
+}
+.text-rodape a {
+    color: #fff;
+}
+.text-rodape a:hover {
+    color: #000;
+}
